@@ -1,0 +1,36 @@
+body{
+  margin:0;
+  background-color: #E4F4FD;
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+  color: #083C5A;
+}
+#weather-cart{
+
+  padding: 20px 0;
+  width: 70%;
+  border-radius: 20px;
+  background-color: #4CB648;
+  margin: 10% auto;
+
+}
+.btn{
+  display: block;
+  margin: 40px auto 5px;
+  padding: 5px 15px;
+  background-color: #FCC72C;
+  border-radius: 10px;
+  border: 0px ;
+}
+.title{
+  font-size:2rem;
+
+  font-family: 'Pacifico', cursive;
+}
+.cstate{
+  color:#FCC72C;
+}
+.btn:hover{
+    background-color: #083C5A;
+    color:#FCC72C;
+}
